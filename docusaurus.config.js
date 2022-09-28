@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Davidyoon Tech Blog',
-  tagline: 'Technology Blog',
+  title: '컨텐츠 소개',
+  tagline: '개발자, 알고리즘, iOS, Spring, 프로젝트, 이민, 해외취업',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',

@@ -4,32 +4,31 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '소프트웨어 개발',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        iOS, NodeJS, Spring, Python 등 개발 관련 글을 작성할 예정입니다. 개인 프로젝트, 팀 프로젝트에서 발생한 다양한 기술 노하우 및
+        트러블 슈팅 등을 작성합니다.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '알고리즘 풀이',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        하루 <b>한</b> 문제 이상의 알고리즘 풀이 과정 및 해설을 작성할 예정입니다. 언어는 <b>Python3</b>, <b>Swift</b> 로 진행할
+        예정입니다.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '해외 취업 및 이민',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        해외 취업 준비를 위한 영어, 인터뷰 준비 등 다양한 이야기를 작성할 예정입니다.
       </>
     ),
   },
