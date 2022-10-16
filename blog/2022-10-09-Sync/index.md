@@ -1,7 +1,7 @@
 ---
 slug: Sync
 title: 동기 비동기 정리
-authors: [Davidyoon]
+authors: [davidyoon]
 tags: [iOS, Swift, Sync, Async]
 ---
 
