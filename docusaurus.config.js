@@ -52,6 +52,7 @@ const config = {
       }),
     ],
   ],
+  themes: ['@docusaurus/theme-search-algolia'],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -76,6 +77,15 @@ const config = {
             position: 'right',
           },
         ],
+      },
+      algolia: {
+        appId: 'YOUR_APP_ID',
+        apiKey: 'YOUR_SEARCH_API_KEY',
+        indexName: 'YOUR_INDEX_NAME',
+        contextualSearch: true,
+        externalUrlRegex: 'external\\.com|domain\\.com',
+        searchParameters: {},
+        searchPagePath: 'search',
       },
       footer: {
         style: 'dark',
