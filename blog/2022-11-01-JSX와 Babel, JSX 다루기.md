@@ -1,8 +1,8 @@
 ---
 slug: React
-title: React의 모든것
+title: JSX와 Babel, JSX 다루기
 authors: [davidyoon]
-tags: [React, 강좌, DOM]
+tags: [React, 강좌, DOM, JSX, Babel, UNPCK, Spread, 연산자]
 ---
 
 ## JSX와 Babel, JSX 다루기
