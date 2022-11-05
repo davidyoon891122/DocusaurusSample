@@ -60,7 +60,7 @@ const config = {
         title: 'Davidyoon Tech Blog',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/blogLogo.png',
         },
         items: [
           {
