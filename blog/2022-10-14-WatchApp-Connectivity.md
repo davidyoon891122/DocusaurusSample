@@ -1,9 +1,7 @@
 ---
 slug: test-blog-post
 title: Apple Watch Connectivity
-authors:
-  name: davidyoon
-  title: Blog Owner
+authors: [davidyoon]
 tags: [iOS, Swift, WatchApp]
 ---
 
