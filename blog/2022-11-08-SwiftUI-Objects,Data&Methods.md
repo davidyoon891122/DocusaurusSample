@@ -55,3 +55,8 @@ Text("This is an apple")
     .bold()
     .kerning(2.0)
 ```
+
+## 정리
+
+- 앱은 class와 struct의 instance들로 구성된다
+- class 와 struct 은 data와 Methods를 포함하고 있다
