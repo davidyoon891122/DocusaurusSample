@@ -1,8 +1,6 @@
 ---
 title: InitialIzers
-tags:
-  - Demo
-  - Getting started
+tags: [Swift, Initializers]
 ---
 
 # Initializers
