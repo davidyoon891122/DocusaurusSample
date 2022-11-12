@@ -1,5 +1,8 @@
 ---
-sidebar_position: 1
+title: Resume
+tags:
+  - Demo
+  - Getting started
 ---
 
 ## 경력 사항
