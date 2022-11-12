@@ -42,10 +42,10 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          routeBasePath: '/blog',
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/davidyoon891122/DocusaurusSample',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -74,7 +74,25 @@ const config = {
             position: 'left',
             label: 'Resume',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'posts',
+            posision: 'left',
+            label: 'Posts'
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
+          // {
+          //   type: 'dropdown',
+          //   label: 'DevPosts',
+          //   position: 'right',
+          //   items: [
+          //     {
+          //       type: 'docSidebar',
+          //       label: 'Swift',
+          //       sidebarId: 'swift'
+          //     },
+          //   ]
+          // },
           {
             href: 'https://github.com/davidyoon891122',
             label: 'GitHub',
