@@ -1,13 +1,11 @@
 ---
 title: Method
-tags:
-  - Demo
-  - Getting started
+tags: [Swift, Method, Static, Class, Instance]
 ---
 
 # Method
 
-# Intance Method
+# Instance Method
 
 - 인스턴스를 생성해야만 호출이 가능한 함수
 - let test: Test = .init()
