@@ -1,6 +1,6 @@
 ---
 authors: [davidyoon]
-tags: [Servlet, Java, 웹 프로그래밍]
+tags: [빌 게이츠, 기후재앙을 피하는 법, 책 리뷰]
 ---
 
 1.매년 배출되는 온실가스의 양
