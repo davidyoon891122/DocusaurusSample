@@ -79,18 +79,6 @@ const config = {
             label: 'Posts'
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          // {
-          //   type: 'dropdown',
-          //   label: 'DevPosts',
-          //   position: 'right',
-          //   items: [
-          //     {
-          //       type: 'docSidebar',
-          //       label: 'Swift',
-          //       sidebarId: 'swift'
-          //     },
-          //   ]
-          // },
           {
             href: 'https://github.com/davidyoon891122',
             label: 'GitHub',
@@ -142,6 +130,12 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      algolia: {
+        appId: process.env.ALGORIA_APP_ID,
+        apiKey: process.env.ALGORIA_SEARCH_API_KEY,
+        indexName: process.env.ALGORIA_INDEX_NAME,
+        contextualSearch: true
       },
     }),
 };
