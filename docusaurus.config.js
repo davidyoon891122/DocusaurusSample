@@ -80,6 +80,12 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
+            type: 'docSidebar',
+            sidebarId: 'dreamtodo',
+            position: 'right',
+            label: 'DreamTodo'
+          },
+          {
             href: 'https://github.com/davidyoon891122',
             label: 'GitHub',
             position: 'right',
@@ -135,7 +141,7 @@ const config = {
         appId: process.env.ALGORIA_APP_ID,
         apiKey: process.env.ALGORIA_SEARCH_API_KEY,
         indexName: process.env.ALGORIA_INDEX_NAME,
-        contextualSearch: true
+        contextualSearch: true,
       },
     }),
 };
