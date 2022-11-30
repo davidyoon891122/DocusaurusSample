@@ -69,3 +69,8 @@ const App = () => {
 - event.target.value를 하면 input 필드에 입력된 값들을 가져온다.
 - Object.assign을 하면 state 객체에서 변화된 값들만 변경시킨다.
 - p 태그에 state.typing이 true 이면 찾고 있는 메시지를 false이면 결과값을 보여준다.
+
+
+## 참조
+
+- 패스트 캠퍼스 온라인 강좌(한 번에 끝내는 React의 모든 것 초격자 패키지 Online)

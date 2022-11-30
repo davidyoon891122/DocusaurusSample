@@ -1,6 +1,5 @@
 ---
 title: JS와 JSX 섞어 쓰기
-authors: [davidyoon]
 tags: [React, 강좌, JS, JSX, map]
 ---
 
@@ -45,6 +44,6 @@ const element = (
 - selected 값에 따라 다른 태그를 리턴하는 함수 구현
 - 1부터 10까지 수의 배열에 map을 사용하여 Number Custom Element 생성 selected 값은 3으로 나누어 떨어지는 값만 true로 처리 하여 3 6 9 값만 h1 태그로 반환
 
-### 참조
+## 참조
 
 - 패스트 캠퍼스 온라인 강좌(한 번에 끝내는 React의 모든 것 초격자 패키지 Online)
