@@ -24,6 +24,7 @@ Xcode no longer builds bitcode by default and generates a warning message if a p
 
 
 2. Asset Catalogs
+
 > Simplify an app icon with a single 1024x1024 image that is automatically resized for its target. Choose the Single Size option in the app icon’s Attributes inspector in the asset catalog. You can still override individual sizes with the All Sizes option.
 
 - 1024x1024 이미지 한장으로 App Icon 설정이 단순화 되었습니다.
@@ -50,12 +51,14 @@ Xcode no longer builds bitcode by default and generates a warning message if a p
 - Swift-DocC 가 Objective-C 와 C APIs 를 지원합니다.
 
 5. Localization
+
 > You can now export local Swift packages for localization. Xcode generates a single localizations catalog for all projects and Swift packages contained in a project or workspace. You can also use xcodebuild 
 
 - localization을 위한 local Swift packages들 추출할 수 있습니다.
 - 프로젝안에 포함된 모든 프로젝트를 위한 localizations catalog를 생성합니다.  
 
 6. Previews
+
 > Xcode Previews now resume automatically when creating new projects.
 
 - 새로운 프로젝트 생성 시 Previews resume을 자동으로 실행합니다.
