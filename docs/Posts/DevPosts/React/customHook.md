@@ -50,6 +50,6 @@ const [typing, setTyping] = useLocalStorage("typing", false)
 
 - 반복된 훅은 커스텀 훅으로 묶고, 반복되는 코드는 함수로 묶는다.
 
-# 참조
+## 참조
 
 - 패스트 캠퍼스 온라인 강좌(한 번에 끝내는 React의 모든 것 초격자 패키지 Online)
