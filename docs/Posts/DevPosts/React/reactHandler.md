@@ -43,4 +43,5 @@ tags: [React, Fastcampus, 강좌, 정리, event handler]
 
 ## 참조
 
+- 패스트 캠퍼스 온라인 강좌(한 번에 끝내는 React의 모든 것 초격자 패키지 Online)
 - https://www.w3schools.com/js/js_events.asp
