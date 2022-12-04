@@ -7,7 +7,7 @@ tags: [React, Fastcampus, 강좌, 정리, event handler]
 
 - useState, useEffect이 여러번 사용되면, 문맥에 따라 hook들을 묶어서 커스텀 훅으로 만들 수 있다.
 
-```JavaScript
+```jsx
 const [keyword, setKeyword] = React.useState(() => {
     return window.localStorage.getItem("keyword")
 })
@@ -22,7 +22,7 @@ React.useEffect(() => {
 
 - 위에 소스를 하나의 커스텀 Hook으로 만들 수 있다.
 
-```JavaScript
+```jsx
 function setLocalStorage(itemName, value = "" ) {
     const [state, setState] = React.useState(() => {
         return window.localStorage.getItem(itemName) || value
