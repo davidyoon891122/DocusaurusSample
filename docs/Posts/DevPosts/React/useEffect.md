@@ -22,7 +22,7 @@ const [keyword, setKeyword] = React.useState(() => {
 
 # keyword 값 로컬에 저장하기
 
-```JavaScript
+```jsx
 function handleChange(event) {
     window.localStorage.setItem("keyword", event.target.value)
     setKeyword(event.target.value)
@@ -33,7 +33,7 @@ function handleChange(event) {
 - keyword 라는 이름으로 로컬 브라우저 저장소에 키워드가 변경 함수가 호출될 때마다 값을 저장한다.
 - side effect를 확인하기 위해 handleChange에서 값을 세팅하지 않고 App 단에서 keyword로 값을 setItem 해주게 변경
 
-```JavaScript
+```jsx
 window.localStorage.setItem("keyword", keyword)
 
 function handleChange(event) {
@@ -46,7 +46,7 @@ function handleChange(event) {
 - 문제는 버튼 클릭시에도 다른 state의 값이 변경되며 keyword를 Set 하게 된다.
 - keyword가 바뀔 떄만 값을 저장하고 싶으면 useEffect를 사용한다
 
-```JavaScript
+```jsx
 React.useEffect(() => {
     console.log("Effect")
     window.localStorage.setItem("keyword", keyword)
