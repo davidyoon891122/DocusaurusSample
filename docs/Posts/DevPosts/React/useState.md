@@ -10,7 +10,7 @@ tags: [React, Fastcampus, 강좌, 정리, useState]
 
 # useState 사용 방법
 
-```JavaScript
+```jsx
 let keyword = ""
 
 function handleChage(event) {
@@ -20,7 +20,7 @@ function handleChage(event) {
 
 - 위와 같이 바닐나로 구현할 떄에는 render를 다시 해주어야 뷰에서 변경된 state 값으로 뷰를 그려주게 된다.
 
-```JavaScript
+```jsx
 const [keyword, setKeyword] = React.useState("")
 const [result, setResult] = React.useState("")
 const [typing, setTyping] = React.useState(false)

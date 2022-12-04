@@ -42,7 +42,7 @@ function setLocalStorage(itemName, value = "" ) {
 
 # 커스텀 훅 사용하기
 
-```JavaScript
+```jsx
 const [keyword, setKeyword] = useLocalStorage("keyword")
 const [result, setResult] = useLocalStorage("result")
 const [typing, setTyping] = useLocalStorage("typing", false)

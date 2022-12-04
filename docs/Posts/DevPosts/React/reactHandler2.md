@@ -7,7 +7,7 @@ tags: [React, Fastcampus, 강좌, 정리, event handler]
 
 - input 필드와 button을 구현한다.
 
-```JavaScript
+```jsx
 const App = () => {
     return (
         <>
@@ -24,7 +24,7 @@ const App = () => {
 - button 을 클릭할 때 입력 값을 보여줄 onClick 이벤트 함수를 구현한다.
 - 전역 필드에 state 객체를 선언하고 값을 변화 시켜줄 setState 함수를 구현한다.
 
-```JavaScript
+```jsx
 const state = {
     keyword: "",
     typing: false,
