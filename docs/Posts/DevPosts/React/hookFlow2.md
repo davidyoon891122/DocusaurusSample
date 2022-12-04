@@ -6,7 +6,7 @@ tags: [React, Fastcampus, 강좌, 정리, Hook Flow]
 ## Hook Flow 이해하기 더 깊이
 - 더 깊은 hook flow 의 사이클을 보기 위해 자식 Child component를 생성하자
 ```JavaScript
-const Chile = () => {
+const Child = () => {
     console.log("   Child render start")
     const [text, setText] = React.useState(() => {
         console.log("   Child useState")
