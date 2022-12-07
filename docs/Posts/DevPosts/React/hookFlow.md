@@ -5,7 +5,7 @@ tags: [React, Fastcampus, 강좌, 정리, Hook Flow]
 
 # 훅의 호출 타이밍 이해하기
 - hook이 호출되는 타이밍을 확인하기 위해 간단한 예제를 구현한다.
-```JavaScript
+```jsx
 
 const App = () => {
     console.log("App render start")
