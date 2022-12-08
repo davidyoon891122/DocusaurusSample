@@ -7,7 +7,7 @@ tags: [React, 강좌, JS, JSX, map]
 
 - Text 라는 Custom Element 구현
 
-```
+```jsx
 const Text = ({text}) => {
     if (text.charAt(0) === text.charAt(0).toUpperCase()) {
         return <h1>{text}</h1>
@@ -29,7 +29,7 @@ const element = (
 
 ## Selected 값에 따라 다른 태그를 리턴해주는 Custom Element 구현
 
-```
+```jsx
 const Number = ({number, selected}) => {
     return selected ? <h1>{number}</h1> : <h3>{number}</h3>
 }
