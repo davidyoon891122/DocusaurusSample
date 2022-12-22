@@ -155,7 +155,57 @@ if let entity = entity {
 - contact.setValue 함수를 통해 키 값에 맞는 값들을 넣어준다.
 - context.save() 통해 값을 저장한다.
 
+# Update CoreData
+```Swift
+let fetchRequest: NSFetchRequest<NSFetchRequestResult> = NSFetchResult.init(entityName="TaskEntity")
 
+fetchRequest.predicate = NSPredicate(format: "uuid = %@", task.uuid)
+
+do {
+   let fetchedData = try context.fetch(fetchRequest)
+   guard let objectUpdate = fetchedData[0] as? NSManagedObject else { return }
+   objectUpdate.setValue("newValue", forKey: "name")
+
+   do {
+        try context.save()
+   }
+} catch {
+    print(error.localizedDescription)
+}
+```
+- NSFetchRequest를 사용하여 데이터를 entity 데이터를 불러온다.
+- NSPredicate로 조건을 설정한다.
+    - 예제의 경우 uuid가 일치하는 값을 제시했다.
+- context.fetch() 함수로 조건에 맞는 데이터를 가져온다.
+- fetchedData(Array에 들어 있어 0번째 값을 꺼내서 처리)를 NSManagedObject로 변환하여, setValue로 값을 업데이트 한다.
+- context.save()로 값을 저장하면 데이터가 업데이트 된다.
+
+
+# Delete CoreData
+- Delete 처리도 Update와 크게 다르지 않다.
+```Swift
+let fetchRequest: NSFetchRequest<NSFetchRequestResult> = NSFetchRequest.init(entityName: "TaskEntity")
+fetchRequest.predicate = NSPredicate(format: "uuid = %@", task.uuid)
+
+do {
+    let fetchedData = try context.fetch(fetchRequest)
+    guard let objectDelete = fetchedData[0] as? NSManagedObject else { return }
+    context.delete(objectDelete)
+
+    do {
+        try context.save()
+    } catch let error {
+        print(error.localizedDescription)
+    }
+
+} catch let error {
+    print(error.localizedDescription)
+}
+```
+- fetchRequest 생성 및 NSPredicate로 조건에 맞는 data 설정.
+- context.fetch로 값을 가져와 NSManagedObject로 형 변환.
+- context.delete(object)를 사용하여 변환된 object 삭제
+- context.save() 로 현재 변경값 저장
 ## 참조
 - https://developer.apple.com/documentation/coredata
 
