@@ -1,5 +1,5 @@
 ---
-title: 이벤트 핸들러 써보기
+title: 상태 올리기(주입하기))
 tags: [React, Fastcampus, 강좌, 정리, event handler]
 ---
 
