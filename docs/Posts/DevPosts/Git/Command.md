@@ -77,6 +77,8 @@ tags: [Git, Git Command, Shotcut, 커밋 취소, add 취소]
     - git branch -d branchName
     - git push origin branchName
 
+# 특정 파일만 변경사항 되돌리기
+- git checkout -- fileName
 
 ## 참조
 - https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-Git-Alias
