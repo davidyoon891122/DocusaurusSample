@@ -143,6 +143,11 @@ const config = {
         indexName: process.env.ALGORIA_INDEX_NAME,
         contextualSearch: true,
       },
+      googleAdsense: {
+        dataAdClient: 'ca-pub-3441374360512105',
+      },
+
+      plugins: ['docusaurus-plugin-google-adsense']
     }),
 };
 
