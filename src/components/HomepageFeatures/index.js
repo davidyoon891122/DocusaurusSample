@@ -51,6 +51,7 @@ function Feature({Svg, title, description}) {
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3441374360512105" crossorigin="anonymous"></script>
       <div className="container">
         <div className="row">
           {FeatureList.map((props, idx) => (
