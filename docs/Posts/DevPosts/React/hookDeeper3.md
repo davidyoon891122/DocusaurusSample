@@ -115,6 +115,47 @@ function FriendStatus(props) {
     - useId
 
 
+# Reducer 예제
+
+```jsx
+import React, { useReducer }from 'react'
+
+
+export default function Reducer() {
+    const initialState = {count: 0, name: 'david'}
+
+    function reducer(state, action) {
+        switch(action.type) {
+            case 'reset':
+                return initialState
+            case 'increment':
+                return { count: state.count + 1 , name: 'timmy'}
+            case 'decrement':
+                return { count: state.count - 1 , name: 'amy'}
+            default:
+                throw new Error()
+        }
+    }
+    const [state, dispatch] = useReducer(reducer, initialState)
+    return (
+        <div>
+            Count: {state.count}
+            <br />
+            Name: {state.name}
+            <br />
+            <button onClick={() => dispatch({type: 'reset'})}>Reset</button>
+            <button onClick={() =>  dispatch({type: 'decrement'})}>-</button>
+            <button onClick={() =>  dispatch({type: 'increment'})}>+</button>
+        </div>
+    )
+}
+
+```
+
+- 한가지의 변화가 있을 떄는 useState의 prev 값을 변경하여 처리할 수 있다.
+- 단 여러가지 액션이 필요하고 다양한 state변화가 필요할 경우에는 useReducer를 사용하면 간단하게 상태를 변화 시킬 수 있다.
+
+
 # 참조
 
 - 패스트 캠퍼스 온라인 강좌(한 번에 끝내는 React의 모든 것 초격자 패키지 Online)
