@@ -222,4 +222,19 @@ import Image from '@theme/IdealImage';
 
 - 날씨 정보 하단 세부 정보 화면
   <img src="/dreamtodoImages/weather_detail_view.png" width="250px" height="80px" title="weather_detail_view"/>
+  
   - 일출, 일몰, 구름, 습도, 바람, 체감, 강우량, 기압, 가시거래, 자외선 지수 정보를 확인할 수 있어요.
+
+## 5. 목표공유 기능
+
+- 목표공유 화면
+  <img src="/dreamtodoImages/board_view.png" width="250px" height="80px" title="board_view"/>
+  
+  - 작성된 공유 목표를 보여줍니다.
+  - 작성자, 목표, 프로필, 진행상태 등을 확인할 수 있어요.
+
+- 목표공유 세부 화면
+  <img src="/dreamtodoImages/board_detail_view.png" width="250px" height="80px" title="board_detail_view"/>
+  
+  - 작성된 내용의 컨텐츠를 확인할 수 있어요.
+  - 좋아요, 댓글작성, 대댓글 작성 기능을 사용할 수 있어요.
