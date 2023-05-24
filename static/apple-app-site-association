@@ -1,0 +1,16 @@
+{
+    applinks: {
+        details: [
+            {
+                appIDs: [
+                    "R6V3UCSNG3.com.ycompany.DreamTodo"
+                ],
+                components: [
+               		{
+                	    "/": "*"
+                    }
+                ] 
+            }
+        ]
+    }
+}

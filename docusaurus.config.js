@@ -53,7 +53,7 @@ const config = {
           anonymizeIP: true,
         }
       }),
-    ],
+    ]
   ],
 
   themeConfig:
@@ -91,6 +91,12 @@ const config = {
             position: 'right',
           },
         ],
+      },
+      sitemap: {
+        changefreq: 'weekly',
+        priority: 0.5,
+        trailingSlash: false,
+        exclude: ['/docs/**'],
       },
       footer: {
         style: 'dark',
@@ -149,6 +155,7 @@ const config = {
 
       plugins: ['docusaurus-plugin-google-adsense']
     }),
+    
 };
 
 module.exports = config;
