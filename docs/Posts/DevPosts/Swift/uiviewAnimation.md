@@ -3,6 +3,18 @@ title: UIView animation
 tags: [UIKit, animation]
 ---
 
+# iOS animation 메소드
+
+- iOS 2
+    - beginAnimations, commitAnimations
+    - 현재는 deprecated 되었다.
+- iOS 4
+    - closure 형태인 animate 메소드
+    - 현재 주로 사용되고 있는 메소드
+- iOS 10
+    - UIViewPropertyAnimation
+    - 애플에서 권장하는 방법
+
 # UIView Animate
 
 ## 특징
