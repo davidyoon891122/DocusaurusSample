@@ -220,7 +220,6 @@ tags:
  <img src="/portfolio/starbuck/starbuck3.png" width="250px" height="80px" title="starbuck3"/>
  <img src="/portfolio/starbuck/starbuck4.png" width="250px" height="80px" title="starbuck4"/>
  <img src="/portfolio/starbuck/starbuck5.png" width="250px" height="80px" title="starbuck5"/>
- <img src="/portfolio/starbuck/starbuck6.png" width="250px" height="80px" title="starbuck6"/>
 
 <h1>내용</h1>
 
