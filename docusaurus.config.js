@@ -86,6 +86,12 @@ const config = {
             label: 'DreamTodo'
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'xtrading',
+            position: 'right',
+            label: 'Xtrading'
+          },
+          {
             href: 'https://github.com/davidyoon891122',
             label: 'GitHub',
             position: 'right',
