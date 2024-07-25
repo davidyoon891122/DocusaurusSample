@@ -9,7 +9,9 @@ tags: [XTrading, 드림투두, 가이드]
 # iOS 개발자
 
 닉네임: Davidyoon
+github: https://github.com/davidyoon891122
 
 # 서버 개발자
 
 닉네임: chmin82
+github: https://www.github.com/cmjeon
