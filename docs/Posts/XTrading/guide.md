@@ -12,229 +12,157 @@ import Image from '@theme/IdealImage';
 
 # 사용자 가이드
 
-## 1. 투두리스트 탭
+## 1. 관심종목
 
-- 초기 화면 알림 허용 팝업
-  <img src="/dreamtodoImages/todo_alert_popup.png" width="250px" height="80px" title="todo_alert_popup"/>
+- 관심종목
+  <img src="/xtradingImages/15ProDark/WatchList.png" width="250px" height="80px" title="WatchList"/>
 
-  - 허용 안 함 선택 시 미완료 투두에 대한 알림을 받을 수 없어요.
-  - 허용 선 택 시 작성한 할 일 중 현재 시간 보다 늦은 시간에 등록되 미완서 할일들은 알림에 등록되어, 시작 시간이 되면 알림을 보내게 됩니다.
+  - 내가 보고 싶은 종목들을 추가하여 관심종목에서 실시간으로 데이터를 확인할 수 있습니다.
 
-- 월간 화면
-  <img src="/dreamtodoImages/todo_monthly_calendar.png" width="250px" height="80px" title="todo_monthly_calendar"/>
+- 관심종목 정렬
+  <img src="/xtradingImages/15ProDark/WatchListSort.png" width="250px" height="80px" title="WatchListSort"/>
 
-  - 달력 화면을 위/아래 방향으로 스크롤하여 주간/월간으로 캘린더를 확인할 수 있어요
+  - 내 순서, 이름, 가격, 전일대비, 거래대금 버튼을 선택하여 관심종목을 기준별로 정렬하여 볼 수 있습니다.
 
-- 주간 주간
-  <img src="/dreamtodoImages/todo_weekly_calendar.png" width="250px" height="80px" title="todo_weekly_calendar"/>
+- 종목 정보 상세 차트 및 호가 버튼
+  <img src="/xtradingImages/15ProDark/WatchDetail.png" width="250px" height="80px" title="WatchDetail"/>
 
-  - 달력 화면을 위/아래 방향으로 스크롤하여 주간/월간으로 캘린더를 확인할 수 있어요
+  - 관심 종목 리스트 중 원하는 종목을 선택해서 더욱 자세한 정보를 볼 수 있어요.
+  - 차트 데이터 및 호가창을 볼 수 있는 버튼이 표시 됩니다.
+  - 차트는 분, 일, 주, 월 별 데이터를 200개까지 볼 수 있으며, 스크롤이 가능합니다.
 
-- 할일 정보가 추가 된 화면
-  <img src="/dreamtodoImages/todo_added_task.png" width="250px" height="80px" title="todo_added_task"/>
+- 종목 정보 상세 정보 및 피드
+  <img src="/xtradingImages/15ProDark/WatchDetailInfo.png" width="250px" height="80px" title="WatchDetailInfo"/>
 
-  - 할 일 목록 박스를 터치하여 할 일을 완료 상태로 변경할 수 있어요
+  - 관심 종목 상세에서 하단으로 스크롤을 하면 전일 종가, 시가, 거래량, 52주 최고가, 52주 최저가 등 데이터를 볼 수 있어요.
+  - 피드 정보 또한 볼 수 있습니다.
+  - 해당 종목에 대한 피드도 로그인 후에 작성할 수 있어요.
 
-- 할일 완료 처리 화면
-  <img src="/dreamtodoImages/todo_completed_task.png" width="250px" height="80px" title="todo_completed_task"/>
+- 암호화폐 검색
+  <img src="/xtradingImages/15ProDark/Search.png" width="250px" height="80px" title="Search"/>
 
-- 할 일 작성 이동 화면
-  <img src="/dreamtodoImages/todo_add_view.png" width="250px" height="80px" title="todo_add_view"/>
+  - 관심종목 창 네비게이션 오른쪽에 돋보기 버튼을 선택하면 검색창이 나옵니다.
+  - 검색창에서 별표 버튼을 선택하여 관심 종목을 추가할 수 있어요.
+  - 리스트의 종목을 선택하면 종목의 정보를 볼 수 있는 화면으로 이동합니다.
 
-  - 오른쪽 하단 + 버튼을 클릭하여 할 일 추가 화면으로 이동합니다
+- 암호화폐 정보 상세
+  <img src="/xtradingImages/15ProDark/CryptoInfo.png" width="250px" height="80px" title="CryptoInfo"/>
 
-- 할 일 작성 화면(제목)
-  <img src="/dreamtodoImages/todo_add_view_title.png" width="250px" height="80px" title="todo_add_view_title"/>
+  - 암호화페에 대한 차트, 실시간 정보가 상단에 보여집니다.
+  - 암호화폐에 대한 설명, 웹사이트, 출저 정보 사이트 등이 제공됩니다.
 
-- 할 일 작성 화면(시작시간)
-  <img src="/dreamtodoImages/todo_add_start_keyboard.png" width="250px" height="80px" title="todo_add_start_keyboard"/>
+- 나의 종목 리스트 추가
+  <img src="/xtradingImages/15ProDark/AddWatchMenu.png" width="250px" height="80px" title="AddWatchMenu"/>
 
-  - 시작 시간은 숫자만 입력할 수 있으며 12시간 am pm으로 구분합니다.
+  - 나만의 종목 리스트를 만들 수 있는 관심 리스트를 추가할 수 있어요.
+  - 종목 리스트 삭제, 이름 변경도 가능합니다.
 
-- 미완료 투두 표시 화면
-  <img src="/dreamtodoImages/todo_calendar_unfinished_display.png" width="250px" height="80px" title="todo_calendar_unfinished_display"/>
+- 나의 종목 리스트 삭제
+  <img src="/xtradingImages/15ProDark/DeleteWatchMenu.png" width="250px" height="80px" title="DeleteWatchMenu"/>
 
-  - 미완료 할 일들은 달력에 점으로 표시됩니다.
-  - 점 하나: 하나의 미완성 할 일이 존재
-  - 점 둘: 둘 이상의 미완성 할 일이 존재
+  - 나의 종목 리스트를 스와이프를 통해 삭제할 수 있어요.
 
-- 일정 변경 메뉴 화면
-  <img src="/dreamtodoImages/long_press_menu.png" width="250px" height="80px" title="long_press_menu"/>
+- 호가창
+  <img src="/xtradingImages/15ProDark/OrderPaper.png" width="250px" height="80px" title="OrderPaper"/>
 
-  - 할 일 목록에서 특정 할 일을 1초간 터치 시 미루기 팝업이 보여집니다.
+  - 종목 상세 화면에서 호가창(OrderPaper) 버튼을 클릭하면, 호가창 화면으로 이동합니다.
+  - 호가창 화면에서는 실시간 현재가, 호가창을 볼 수 있어요.
 
-- 할 일 미루기 달력 화면
-  <img src="/dreamtodoImages/todo_modify_day_calendar.png" width="250px" height="80px" title="todo_modify_day_calendar"/>
-  - 미루기 선택 시 작은 달력이 보여지며, 미룰 날을 선택 후 버튼 선택 시 해당 할 일은 선택 한 일로 미루어져 등록됩니다
+## 2. 아이디어
 
-## 2. 분석 탭
+- 아이디어 리스트
+  <img src="/xtradingImages/15ProDark/IdealList.png" width="250px" height="80px" title="IdealList"/>
 
-- 데이터 없는 초기 분석 화면
-  <img src="/dreamtodoImages/analytics_empty_view.png" width="250px" height="80px" title="analytics_empty_view"/>
+  - 아이디어 리스트에서 다른 사람들이 생각하는 아이디어들을 볼 수 있어요.
+  - 좋아요 버튼을 터치하여 반응할 수 있어요.
+  - 원하는 글을 선택하면 상세 화면으로 이동하여 댓글, 대댓글 등을 작성할 수 있습니다.
 
-  - 초기에는 등록된 데이터가 없어 해당 화면이 보여지게 됩니다.
+- 아이디어 상세
+  <img src="/xtradingImages/15ProDark/IdealDetail.png" width="250px" height="80px" title="IdealDetail"/>
 
-- 데이터가 등록되어 보여지는 스케줄 표
-  <img src="/dreamtodoImages/analytics_24_time_scheduler.png" width="250px" height="80px" title="analytics_24_time_scheduler"/>
+  - 아이디어에 대한 상세한 내용을 확인할 수 있어요.
+  - 댓글, 대댓글, 좋아요, 공유 기능을 사용할 수 있습니다.
+  - 불쾌한 내용 및 보고싶지 않은 내용이 있으면, 오른쪽 더보기 버튼을 클릭하여 신고하기, 컨텐츠 차단, 유저차단을 사용할 수 있어요.
 
-  - 금일 등록 된 할일 중 완료된 내용을 바탕으로 24시간 스케줄 표를 보여줍니다.
-  - 날짜 뷰를 선택하여 다른 날짜의 24시간 스케줄 표도 확인할 수 있어요
-  - 스케줄 표에 특정 할 일을 선택 시 하단에 해당 할달이 몇시간을 소요했는지 표시 됩니다.
+## 3. 피드
 
-- 주간 분석 평가
-  <img src="/dreamtodoImages/analytics_weekly_evaluation.png" width="250px" height="80px" title="analytics_weekly_evaluation"/>
-  - 금주 투두 리스트 완성 건수를 표시합니다.
-  - 완료률에 따라 다른 이미지가 보여지게 됩니다.
-  - 금주 가장 많이 완료한 일을 1위부터 5위까지 보여줍니다
-  - 금주 가장 많이 완료하지 못한 일을 1위부터 5위까지 보여줍니다.
+- 피드 리스트
+  <img src="/xtradingImages/15ProDark/FeedList.png" width="250px" height="80px" title="FeedList"/>
 
-## 3. 검색 탭
+  - 종목 별 피드를 만들어서 다른 사람들과 해당 종에 대한 의견을 나눌 수 있습니다.
+  - 원하는 종목을 선택해서 종목별 피드만 볼 수도 있어요.
 
-- 검색 결과가 없는 화면입니다.
-  <img src="/dreamtodoImages/search_empty_view.png" width="250px" height="80px" title="search_empty_view"/>
+- 피드 상세
+  <img src="/xtradingImages/15ProDark/FeedDetail.png" width="250px" height="80px" title="FeedDetail"/>
 
-  - 초기 화면 및 검색결과가 없는 화면입니다.
-  - 뷰 중앙에 “검색 결과가 존재하지 않습니다”라는 문구가 표시 됩니다.
+  - 피드에 대한 상세 내용을 조회할 수 있어요
+  - 댓글, 대댓글, 좋아요, 공유 기능을 사용할 수 있습니다.
+  - 불쾌한 내용 및 보고싶지 않은 내용이 있으면, 오른쪽 더보기 버튼을 클릭하여 신고하기, 컨텐츠 차단, 유저차단을 사용할 수 있어요.
 
-- 검색 결과 리스트 화면
-  <img src="/dreamtodoImages/search_result_view.png" width="250px" height="80px" title="search_result_view"/>
+## 4. 뉴스
 
-  - 사용자가 작성하는 키워드에 따라 검색 결과 리스트를 보여줍니다.
-  - 완료 여부(O, X), 할 일 제목, 작성 일의 정보를 보여줍니다.
+- 뉴스 리스트
+  <img src="/xtradingImages/15ProDark/News.png" width="250px" height="80px" title="News"/>
 
-- 검색 결과 자세히 보기 화면
-  <img src="/dreamtodoImages/search_detail_view.png" width="250px" height="80px" title="search_detail_view"/>
+  - 최신 경제, 암호화폐 관련 뉴스 리스트를 확인할 수 있어요.
+  - 상단의 탭을 통해 특정 뉴스 리스트를 선택하여 뉴스를 찾아보고 선택할 수 있어요.
 
-  - 출력 리스트 중 특정 할일을 선택하면 작성했던 자세한 내용을 볼 수 있어요.
-  - 조회 화면에서는 내용 수정은 불가합니다.
+## 5. 세팅
 
-## 4. 더보기
+- 세팅 메인 화면
 
-- 미로그인 더보기 화면
-  <img src="/dreamtodoImages/more_without_login.png" width="250px" height="80px" title="more_without_login"/>
+  <img src="/xtradingImages/15ProDark/Settings.png" width="250px" height="80px" title="Settings"/>
 
-- 미 로그인 사용 불가 팝업 화면
-  <img src="/dreamtodoImages/more_unavailable_popup.png" width="250px" height="80px" title="more_unavailable_popupb"/>
+  - 세팅 화면에서 여러가지 내용을 확인할 수 있어요.
+  - 공지사항, 앱 공유하기, 앱 평가하기, 라이센스, 문의하기, 앱 정보, 로그인 기능을 사용 할 수 있어요.
 
-  - 미로그인 사용 불가 메뉴
-    - 프로필 수정
-    - 서버 백업
-    - 계정 삭제
+## 6. 로그인
 
-- 로그인 더보기 화면
-  <img src="/dreamtodoImages/more_login_view.png" width="250px" height="80px" title="more_login_view"/>
+- 로그인
 
-  - 로그인시 더보기 화면에 설정했던 닉네임, 프로필(목표) 정보가 보여집니다.
+  <img src="/xtradingImages/15ProDark/Login.png" width="250px" height="80px" title="Login"/>
 
-- 로컬 백업 복원 화면
-  <img src="/dreamtodoImages/more_local_backup_view.png" width="250px" height="80px" title="more_local_backup_view"/>
+  - 세팅화면에서 로그인을 버튼을 이용하여 로그인 화면으로 이동합니다.
+  - 로그인 방식은 이메일, 애플 로그인, 구글 로그인이 제공됩니다.
+  - 이메일, 닉네임, 비밀번호(이메일 로그인만) 정보만 입력하면 간편하게 로그인 할 수 있어요.
+  - 암호는 암호화된 상태로 저장되며, 관리자도 암호를 알 수 없습니다(안전해요).
 
-- 로컬 백업 저장 폴더 선택 화면
-  <img src="/dreamtodoImages/local_backup_select_folder_view.png" width="250px" height="80px" title="local_backup_select_folder_view"/>
+## 7. 공지사항
 
-  - 로컬 백업을 선택한 후 디바이스 내에 소중한 할 일 정보를 저장할 수 있습니다.
-  - 단, 드림투두 폴더에 저장된 내용은 드림투두 앱 삭제 시 같이 삭제되오니 주의해 주세요!
+- 공지사항
 
-- 로컬 백업 완료 화면
-  <img src="/dreamtodoImages/local_backup_complete_view.png" width="250px" height="80px" title="local_backup_complete_view"/>
+  <img src="/xtradingImages/15ProDark/Announcement.png" width="250px" height="80px" title="Announcement"/>
 
-  - 로컬 백업 완료 시 완료 일시가 포함된 팝업이 보여집니다
-  - 로컬 백업 화면으로 들어오면 마지막 백업 일을 확인할 수 있어요
+  - 관리자가 제공하는 공지사항 정보를 확인 할 수 있어요.
+  - 긴급 알림, 공지사항, 업데이트 로 구분되어 공지사항이 보여집니다.
 
-- 로컬 백업 복원 파일 선택 화면
-  <img src="/dreamtodoImages/local_recovery_select_file.png" width="250px" height="80px" title="local_recovery_select_file"/>
+## 8. 알림
 
-  - 디바이스 파일 시스템에서 저장했던 파일을 선택하여 불러올 수 있어요
+- 알림정보
+  <img src="/xtradingImages/15ProDark/Notification.png" width="250px" height="80px" title="Notification"/>
 
-- 로컬 백업 복원 완료 화면
-  <img src="/dreamtodoImages/local_recovery_complete_view.png" width="250px" height="80px" title="local_recovery_complete_view"/>
+  - 알림설정을 하면 서버에서 제공하는 다양한 정보를 받아 볼 수 있어요.
+  - 물론 알림끄기도 가능합니다.
+  - 이벤트 및 혜택을 받기 위해서는 알림을 켜주시는게 좋아요.
 
-  - 복구가 완료 되면 복구 완료 팝업이 보여지게 됩니다.
-  - 저장한 데이터가 저장적으로 복구 되었는지 확인해 주세요.
+## 9. 프로필
 
-- 서버 백업 복원 화면
-  <img src="/dreamtodoImages/server_recovery_complete_view.png" width="250px" height="80px" title="server_recovery_complete_view"/>
+- 프로필
+  <img src="/xtradingImages/15ProDark/Profile.png" width="250px" height="80px" title="Profile"/>
 
-  - 서버 백업 복원은 로그인을 완료한 유저만 사용 가능합니다.
-  - 서버 백업은 서버에 데이터를 저장합니다.
-  - 서버 복원은 서버로 부터 저장된 데이터를 받아와 복원 작업을 진행합니다.
-  - 서버 백업 선택 시 기존에 저장 된 정보는 삭제되오니 유의하여 주세요.
+  - 내 프로필 정보를 확인 할 수 있어요.
+  - 닉네임, 등급, 명성, 작성글 수, 팔로워, 팔로잉 정보를 확인할 수 있어요.
+  - 닉네임 변경 기능도 사용할 수 있습니다.
 
-- 프로필 변경 화면
-  <img src="/dreamtodoImages/profile_modify_view.png" width="250px" height="80px" title="profile_modify_view"/>
+- 닉네임 변경
+  <img src="/xtradingImages/15ProDark/ModifyNickname.png" width="250px" height="80px" title="ModifyNickname"/>
 
-  - 유저 닉네임, 프로필을 변경할 수 있습니다.
-  - 로그인 되어 있는 유저만 사용할 수 있습니다.
-  - 닉네임, 프로필 변경 시 기존 닉네임, 프로필 정보는 삭제되오니 유의하여 주세요.
+  - 닉네임을 변경할 수 있어요.
+  - 특정 기간동안에는 자유롭게 닉네임을 변경할 수 있습니다.(추후 변경 예정)
+  - 닉네임은 유니크하며 동일한 닉네임은 사용할 수 없어요.
 
-- 알림 설정 화면
-  <img src="/dreamtodoImages/alarm_settings_view.png" width="250px" height="80px" title="alarm_settings_view"/>
+- 팔로워, 팔로잉 기능
+  <img src="/xtradingImages/15ProDark/Follow.png" width="250px" height="80px" title="Follow"/>
 
-  - 등록된 알림 리스트를 확인할 수 있어요.
-  - 현재 앱의 알림 권한이 표시됩니다.
-  - 알림 설정 변경 버튼을 사용하여 앱의 알림 권한을 변경할 수 있어요
-
-- 알림 설정 화면 알림 불허가 상태
-  <img src="/dreamtodoImages/alarm_unauthorization_view.png" width="250px" height="80px" title="alarm_unauthorization_view"/>
-
-  - 할 일을 등록해도 알림을 받을 수 없는 상태입니다.
-
-- 알림 등록 리스트 화면
-  <img src="/dreamtodoImages/alarm_registered_view.png" width="250px" height="80px" title="alarm_registered_view"/>
-
-  - 활성화된 알림 현황을 확인할 수 있습니다.
-
-- 계정 삭제 화면
-  <img src="/dreamtodoImages/account_delete_view.png" width="250px" height="80px" title="account_delete_view"/>
-  - 계정 삭제 안내 확인 및 동의 선택 후 계정삭제가 가능합니다.
-
-### 더보기 메뉴 추가 기능 화면 소개
-
-1. 네이버 뉴스
-
-- 네이버 뉴스 화면
-  <img src="/dreamtodoImages/naver_news_view.png" width="250px" height="80px" title="naver_news_view"/>
-
-  - 현재 주요 키워드로 등록된 키워드를 선택하여 뉴스 리스트 보여줍니다.
-
-- 뉴스 선택 화면
-  <img src="/dreamtodoImages/naver_news_detail_view.png" width="250px" height="80px" title="naver_news_detail_view"/>
-
-  - 상단 우측 버튼을 누르면 뉴스 링크가 복사 되어 공유할 수 있어요.
-
-2. 날씨 정보
-
-- 날씨정보 화면 사용자 위치 사용 허가 팝업 화면
-  <img src="/dreamtodoImages/weather_auth_popup.png" width="250px" height="80px" title="weather_auth_popup"/>
-
-  - 사용자 정보 사용 요청 팝업을 보여줍니다.
-  - 위치정보를 사용하지 못하면 날씨 정보를 가져올 수 없습니다.
-
-- 날씨 정보 화면
-  <img src="/dreamtodoImages/weather_view.png" width="250px" height="80px" title="weather_view"/>
-
-  - 시간 별 날씨 정보, 8일간 주간 정보, 세부(바람, 자외선, 강우량 등) 정보를 보여줍니다.
-
-- 상단 온도 정보 접기 가능
-  <img src="/dreamtodoImages/weather_fold_view.png" width="250px" height="80px" title="weather_fold_view"/>
-
-  - 상단 뷰에 상/하 스크롤을 통해 뷰를 변경할 수 있어요.
-
-- 날씨 정보 하단 세부 정보 화면
-  <img src="/dreamtodoImages/weather_detail_view.png" width="250px" height="80px" title="weather_detail_view"/>
-  
-  - 일출, 일몰, 구름, 습도, 바람, 체감, 강우량, 기압, 가시거래, 자외선 지수 정보를 확인할 수 있어요.
-
-## 5. 목표공유 기능
-
-- 목표공유 화면
-  <img src="/dreamtodoImages/board_view.png" width="250px" height="80px" title="board_view"/>
-  
-  - 작성된 공유 목표를 보여줍니다.
-  - 작성자, 목표, 프로필, 진행상태 등을 확인할 수 있어요.
-
-- 목표공유 세부 화면
-  <img src="/dreamtodoImages/board_detail_view.png" width="250px" height="80px" title="board_detail_view"/>
-  
-  - 작성된 내용의 컨텐츠를 확인할 수 있어요.
-  - 좋아요, 댓글작성, 대댓글 작성 기능을 사용할 수 있어요.
+  - 작성하는 글이 마음에 드는 유저는 Follow 기능을 사용하여 신규 글을 바로 볼 수 있어요(서비스 개발 중)
+  - 언팔로우도 언제든 가능합니다.
