@@ -14,4 +14,4 @@ github: https://github.com/davidyoon891122
 # 서버 개발자
 
 닉네임: chmin82
-github: https://www.github.com/cmjeon
+github: https://github.com/cmjeon
