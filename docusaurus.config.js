@@ -89,7 +89,13 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'xtrading',
             position: 'right',
-            label: 'Xtrading'
+            label: 'XTrading'
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'easyAverage',
+            position: 'right',
+            label: 'EasyAverage'
           },
           {
             href: 'https://github.com/davidyoon891122',
