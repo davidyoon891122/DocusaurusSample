@@ -348,11 +348,11 @@ tags:
 
 # EasyAvarage(평단가 계산기)
 
- <img src="/portfolio/easyAverage/MainList.png" width="250px" height="80px" title="life4"/>
- <img src="/portfolio/easyAverage/AddItem.png" width="250px" height="80px" title="life5"/>
- <img src="/portfolio/easyAverage/DeleteItem.png" width="250px" height="80px" title="life6"/>
- <img src="/portfolio/easyAverage/Settings.png" width="250px" height="80px" title="life7"/>
- <img src="/portfolio/easyAverage/Theme.png" width="250px" height="80px" title="life8"/>
+ <img src="/portfolio/easyAverage/MainList.png" width="250px" height="80px" title="MainList"/>
+ <img src="/portfolio/easyAverage/AddItem.png" width="250px" height="80px" title="AddItem"/>
+ <img src="/portfolio/easyAverage/DeleteItem.png" width="250px" height="80px" title="DeleteItem"/>
+ <img src="/portfolio/easyAverage/Settings.png" width="250px" height="80px" title="Settings"/>
+ <img src="/portfolio/easyAverage/Theme.png" width="250px" height="80px" title="Theme"/>
 
 <h1>내용</h1>
 
@@ -365,4 +365,32 @@ tags:
 - 언어: Swift
 - 라이브러리: The Composable Architecture
 
+
+# TodayWod(크로스 핏 프로그램 생성 앱)
+
+ <img src="/portfolio/todayWod/todaywod_02.png" width="250px" height="80px" title="TodayWod1"/>
+ <img src="/portfolio/todayWod/todaywod_01.png" width="250px" height="80px" title="TodayWod2"/>
+ <img src="/portfolio/todayWod/todaywod_03.png" width="250px" height="80px" title="TodayWod3"/>
+ <img src="/portfolio/todayWod/todaywod_04.png" width="250px" height="80px" title="TodayWod4"/>
+ <img src="/portfolio/todayWod/todaywod_05.png" width="250px" height="80px" title="TodayWod5"/>
+
+<h1>내용</h1>
+
+- 크로스 핏 프로그램을 사용자에 맞추어 자동으로 만들어주는 프로그램
+- 기능
+  - 일별 프로그램 생성
+  - 운동 완료 체크
+  - 운동 타이머
+- TCA 기술을 사용해 보기 위해 만든 앱
+- 추후 Trading앱에 기능으로 적용 예정
+
+<h1>사용기술(Client)</h1>
+
+- 언어: Swift
+- 라이브러리: The Composable Architecture
+
+<h1>사용기술(Server)</h1>
+
+- 언어: TypeScript
+- 프레임워크: NestJS
 
