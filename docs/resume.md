@@ -7,11 +7,88 @@ tags:
 
 ## 경력 사항
 
+# 한화생명
+
+- 재직 기간
+  - 2023년 11월 입사 ~ 재직중
+- 소속팀
+  - COE부문 WP팀
+- 팀 구성
+  - 4인 팀
+  - PR 승인 2인 이상 받으면 Merge 가능
+- 업무
+  - 신사업 프로젝트 개발
+  - UIKit + RxSwift 기반 프로젝트 -> SwiftUI + Combine으로 변경 작업
+    - 온보딩 프로세스 개발
+    - 계좌 개설 프로세스 개발
+  - 신규 프로젝트 개발
+    - UIKit + Combine 사용하여 신규 프로젝트 개발
+    - 온보딩 프로세스 개발
+    - 공통 에러 처리 개발
+    - UIKit + Combine extension 개발
+    - 알림함, 알림 설정 화면 개발
+    - 나의 정보 화면 개발
+    - 메인 프로덕트 화면 개발
+  - 신규 프로젝트 리뉴얼
+    - UIKit + Combine 기반 프로젝트 -> TCA + SwiftUI으로 리뉴얼
+    - 초기 프로젝트 세팅 작업(TCA 템플릿 개발, SwiftGen, Github repository 세팅, Service, Network 모듈 적용, 앱 초기 분기점 로직 적용)
+    - Custom Toast View 개발
+    - 본인인증 화면, SMS 화면, 알림함, 알림설정 화면 개발
+- 사용 기술
+  - 언어
+    - Swift, Java, Python
+  - 아키텍처
+    - 클린 아키텍처
+    - MVVM
+    - TCA를 사용한 단방향 처리(리뉴얼)
+    
+# 한국투자증권
+
+- 재직 기간
+  - 2021년 12월 입사 ~ 2023 ~ 11(2 년)
+- 소속팀
+  - IT본부 디지털개발부
+- 업무
+  - iOS 한국투자 스마트, 해외선물, 한국투자, 한국투자 리뉴얼, 구 연금 앱 개발/운영
+  - 해외선물옵션 옵션가능 주식 추가 프로젝트 개발
+  - 카카오 챗봇 개발 연동
+  - 리뉴얼 계좌 개설 프로세스 변경 작업
+  - Xib -> Code 변경 작업 진행
+    - 메인 메뉴
+    - 신규 개발 메뉴
+  - Git-Flow 전략 도입
+  - 앱 등록 정기 배포
+  - iOS 13, 14, 15, 16 버전 별 업데이트 대응 개발
+  - UIWebView WKWebView 변경 개발
+  - iOS 팀 리드(팀원 5 명)
+  - 미국 주식 주간 거래
+- 사용 기술
+  - 언어
+    - Swift, Objective-C, Java, Python
+  - 디자인 패턴
+    - MVC(구앱)
+    - MVVM(리뉴얼 앱)
+  - 라이브러리
+    - RxSwfit
+    - Alamofire
+    - Moya
+
+# KB자산운용
+
+- 재직 기간
+  - 2021.06 ~ 2021.11(6개월)
+- 소속팀
+  - DT&펀드오퍼레이션본부 DT실
+- 업무
+  - 인프라 & 보안 관리
+- 특이사항
+  - 지원했던 업무가 아닌 다른 업무로 변경되어 이직
+
 # 롯데정보통신
 
 - 재직 기간
   - 2017년 하반기 공채
-  - 2018.02 ~ 2020.06
+  - 2018.02 ~ 2020.06 (3년 6개월)
 - 소속팀
   - 글로벌 부문 베트남 증권 솔루션 개발 팀
 - 업무
@@ -46,47 +123,6 @@ tags:
   - Python Numpy
   2.  Server-Client 채팅 프로그램(Protocol 통신)
   - Pyhton, Golang, NodeJS
-
-# KB자산운용
-
-- 재직 기간
-  - 2021.06 ~ 2021.11(6개월)
-- 소속팀
-  - DT&펀드오퍼레이션본부 DT실
-- 업무
-  - 인프라 & 보안 관리
-- 특이사항
-  - 지원했던 업무가 아닌 다른 업무로 변경되어 이직
-
-# 한국투자증권
-
-- 재직 기간
-  - 2021년 12월 입사 ~ 현재
-- 소속팀
-  - IT본부 디지털개발부
-- 업무
-  - iOS 한국투자 스마트, 해외선물, 한국투자, 한국투자 리뉴얼, 구 연금 앱 개발/운영
-  - 해외선물옵션 옵션가능 주식 추가 프로젝트 개발
-  - 카카오 챗봇 개발 연동
-  - 리뉴얼 계좌 개설 프로세스 변경 작업
-  - Xib -> Code 변경 작업 진행
-    - 메인 메뉴
-    - 신규 개발 메뉴
-  - Git-Flow 전략 도입
-  - 앱 등록 정기 배포
-  - iOS 13, 14, 15, 16 버전 별 업데이트 대응 개발
-  - UIWebView WKWebView 변경 개발
-  - iOS 팀 리드(팀원 5 명)
-- 사용 기술
-  - 언어
-    - Swift, Objective-C, Java, Python
-  - 디자인 패턴
-    - MVC(구앱)
-    - MVVM(리뉴얼 앱)
-  - 라이브러리
-    - RxSwfit
-    - Alamofire
-    - Moya
 
 ## 기술 스펙
 
@@ -310,5 +346,51 @@ tags:
 - 언어: TypeScript
 - 라이브러리: Nest.JS, PostgreSQL
 
+# EasyAvarage(평단가 계산기)
 
+ <img src="/portfolio/easyAverage/MainList.png" width="250px" height="80px" title="MainList"/>
+ <img src="/portfolio/easyAverage/AddItem.png" width="250px" height="80px" title="AddItem"/>
+ <img src="/portfolio/easyAverage/DeleteItem.png" width="250px" height="80px" title="DeleteItem"/>
+ <img src="/portfolio/easyAverage/Settings.png" width="250px" height="80px" title="Settings"/>
+ <img src="/portfolio/easyAverage/Theme.png" width="250px" height="80px" title="Theme"/>
+
+<h1>내용</h1>
+
+- 주식, 암호화폐 의 평균 단가를 계산해주는 앱
+- TCA 기술을 사용해 보기 위해 만든 앱
+- 추후 Trading앱에 기능으로 적용 예정
+
+<h1>사용기술</h1>
+
+- 언어: Swift
+- 라이브러리: The Composable Architecture
+
+
+# TodayWod(크로스 핏 프로그램 생성 앱)
+
+ <img src="/portfolio/todayWod/todaywod_02.png" width="250px" height="80px" title="TodayWod1"/>
+ <img src="/portfolio/todayWod/todaywod_01.png" width="250px" height="80px" title="TodayWod2"/>
+ <img src="/portfolio/todayWod/todaywod_03.png" width="250px" height="80px" title="TodayWod3"/>
+ <img src="/portfolio/todayWod/todaywod_04.png" width="250px" height="80px" title="TodayWod4"/>
+ <img src="/portfolio/todayWod/todaywod_05.png" width="250px" height="80px" title="TodayWod5"/>
+
+<h1>내용</h1>
+
+- 크로스 핏 프로그램을 사용자에 맞추어 자동으로 만들어주는 프로그램
+- 기능
+  - 일별 프로그램 생성
+  - 운동 완료 체크
+  - 운동 타이머
+- TCA 기술을 사용해 보기 위해 만든 앱
+- 추후 Trading앱에 기능으로 적용 예정
+
+<h1>사용기술(Client)</h1>
+
+- 언어: Swift
+- 라이브러리: The Composable Architecture
+
+<h1>사용기술(Server)</h1>
+
+- 언어: TypeScript
+- 프레임워크: NestJS
 
