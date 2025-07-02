@@ -14,6 +14,79 @@ Hello,
 Thank you for using XTrading.
 Here are the key improvements in the latest version.
 
+
+# Version 1.1.3
+
+안녕하세요, XTrading 사용자 여러분!더 나은 서비스 제공을 위해 XTrading 앱이 새롭게 리뉴얼되었습니다.
+
+이번 업데이트는 디자인뿐만 아니라 핵심 기능 전반에 걸쳐 큰 변화가 이루어졌습니다.
+기존 사용자분들께서는 아래 내용을 꼭 확인해 주세요.
+
+ 1. 서버 이전 및 회원가입 안내 이번 리뉴얼에 따라 서버가 새롭게 이전되었습니다.
+ 
+ - 기존에 가입하신 계정 정보는 모두 초기화되며, 새롭게 회원가입해주셔야 합니다.
+ - 이전 데이터는 모두 삭제되었으며 복구되지 않으니 이 점 양해 부탁드립니다.
+ 
+ 2. 전면 리뉴얼된 디자인
+ 
+ - 앱 전반의 UI/UX가 모던하고 직관적인 디자인으로 개선되었습니다.
+ - 더 깔끔하고 사용하기 쉬운 인터페이스를 통해 보다 쾌적한 환경에서 서비스를 이용하실 수 있습니다.
+ 
+ 3. 포트폴리오 기능 개선
+ 
+ - 포트폴리오 구성 방식이 새롭게 변경되었습니다.
+ - 보다 간편하게 본인의 자산 포트폴리오를 생성하고 확인할 수 있습니다.
+ - 초보자도 쉽게 사용할 수 있도록 사용자 흐름이 개선되었습니다.
+ 
+ 4. 나만의 프로필 설정
+ 
+ - 프로필 수정 화면이 새롭게 추가되었습니다.
+ - 이미지 업로드 기능을 통해 자신만의 프로필을 꾸밀 수 있는 기능이 제공됩니다.
+ - 커뮤니티에서의 개성을 표현해보세요!
+ - 앞으로도 XTrading은 사용자 중심의 서비스를 제공하기 위해 지속적으로 노력하겠습니다.
+ - 새롭게 바뀐 XTrading에서 더 스마트한 투자 정보 교류를 시작해보세요.
+ 
+ 
+감사합니다.
+XTrading 팀 드림
+
+Hello, XTrading users!
+We’re excited to announce that XTrading has been completely renewed to provide a better service experience.
+
+This update includes not only a design overhaul but also significant changes to core features.
+Existing users, please read the following important information carefully.
+
+1. Server Migration & Sign-Up Notice
+
+- With this renewal, the server has been fully migrated.
+- All previous account data has been reset, and you will need to sign up again.
+- Please note that all previous data has been permanently deleted and cannot be restored. We apologize for any inconvenience.
+
+2. Completely Redesigned UI
+
+- The overall UI/UX has been improved with a modern and intuitive design.
+- Enjoy a cleaner, more user-friendly interface that provides a more comfortable experience.
+
+3. Enhanced Portfolio Feature
+
+- The portfolio creation process has been completely revamped.
+- You can now create and manage your asset portfolio more easily.
+- The user flow has been improved to make it easier even for beginners.
+
+4. Personal Profile Customization
+
+- A new profile editing screen has been added.
+- You can now upload an image and customize your own profile.
+- Express your personality within the community!
+
+We will continue to work hard to provide a user-centered service.
+Start sharing smarter investment insights with the new XTrading today!
+
+Thank you.
+The XTrading Team
+
+
+
 # Version 1.1.1
 
 1. 버그 수정
