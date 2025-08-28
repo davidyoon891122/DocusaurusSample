@@ -14,6 +14,97 @@ Hello,
 Thank you for using XTrading.
 Here are the key improvements in the latest version.
 
+# Version 1.1.5
+
+1. 암호화폐 신규 거래소 추가  
+- 빗썸 거래 종목이 추가되었습니다.  
+- 포트폴리오 생성 시 거래소를 선택하여 나만의 포트폴리오를 구성할 수 있습니다.  
+
+2. 프로필 기능 추가  
+- 유저 프로필 사진을 등록할 수 있는 기능이 추가되었습니다.  
+- 내가 작성한 글을 볼 수 있는 페이지가 추가되었습니다.  
+
+3. 버그 수정  
+- 뉴스 코인텔레그래프 한글 이름이 노출되지 않던 버그를 수정했습니다.  
+
+---
+
+**Update Notice**
+
+1. New Cryptocurrency Exchange Added  
+- Bithumb trading pairs have been added.  
+- You can now create your own portfolio by selecting an exchange when setting up your portfolio.  
+
+2. Profile Feature Added  
+- You can now upload a profile picture.  
+- A new page has been added where you can view the posts you’ve written.  
+
+3. Bug Fixes  
+- Fixed a bug where the Korean name of Cointelegraph news was not being displayed.  
+
+---
+
+# Version 1.1.4
+
+안녕하세요, XTrading 사용자 여러분!  
+더 나은 서비스 제공을 위해 XTrading 앱이 새롭게 리뉴얼되었습니다.  
+
+이번 업데이트는 디자인뿐만 아니라 핵심 기능 전반에 걸쳐 큰 변화가 이루어졌습니다.  
+기존 사용자분들께서는 아래 내용을 꼭 확인해 주세요.  
+
+1. 서버 이전 및 회원가입 안내  
+- 이번 리뉴얼에 따라 서버가 새롭게 이전되었습니다.  
+- 기존에 가입하신 계정 정보는 모두 초기화되며, 새롭게 회원가입해주셔야 합니다.  
+- 이전 데이터는 모두 삭제되었으며 복구되지 않으니 이 점 양해 부탁드립니다.  
+
+2. 전면 리뉴얼된 디자인  
+- 앱 전반의 UI/UX가 모던하고 직관적인 디자인으로 개선되었습니다.  
+- 더 깔끔하고 사용하기 쉬운 인터페이스를 통해 보다 쾌적한 환경에서 서비스를 이용하실 수 있습니다.  
+
+3. 포트폴리오 기능 개선  
+- 포트폴리오 구성 방식이 새롭게 변경되었습니다.  
+- 보다 간편하게 본인만의 자산 포트폴리오를 생성하고 확인할 수 있습니다.  
+- 초보자도 쉽게 사용할 수 있도록 사용자 흐름이 개선되었습니다.  
+
+4. 나만의 프로필 설정  
+- 프로필 수정 화면이 새롭게 추가되었습니다.  
+- 이미지 업로드 기능을 통해 자신만의 프로필을 꾸밀 수 있는 기능이 제공됩니다.  
+- 커뮤니티에서의 개성을 표현해보세요!  
+
+앞으로도 XTrading은 사용자 중심의 서비스를 제공하기 위해 지속적으로 노력하겠습니다.  
+새롭게 바뀐 XTrading에서 더 스마트한 투자 정보 교류를 시작해보세요.  
+
+---
+
+**Update Notice**
+
+Hello XTrading users!  
+To provide you with better services, the XTrading app has been completely renewed.  
+
+This update not only includes a new design but also brings major changes across the core features.  
+Please make sure to review the details below.  
+
+1. Server Migration & Membership Renewal  
+- Due to the renewal, our servers have been migrated.  
+- All previously registered account information has been reset, and you will need to sign up again.  
+- Please note that all previous data has been deleted and cannot be restored.  
+
+2. Fully Redesigned UI/UX  
+- The overall app UI/UX has been upgraded with a modern and intuitive design.  
+- A cleaner and more user-friendly interface now allows you to enjoy services in a more convenient environment.  
+
+3. Improved Portfolio Features  
+- The portfolio structure has been completely redesigned.  
+- You can now easily create and check your own asset portfolios.  
+- The user flow has been improved to make it easier even for beginners.  
+
+4. Personalized Profile Settings  
+- A new profile editing screen has been added.  
+- You can upload images and customize your profile with the new features provided.  
+- Express your individuality within the community!  
+
+We will continue to strive to provide user-centered services through XTrading.  
+Start smarter investing and information sharing today with the all-new XTrading! 
 
 # Version 1.1.3
 
