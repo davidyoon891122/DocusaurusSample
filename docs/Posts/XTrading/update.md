@@ -14,6 +14,45 @@ Hello,
 Thank you for using XTrading.
 Here are the key improvements in the latest version.
 
+# Version 1.1.6
+
+안녕하세요, XTrading 사용자 여러분!  
+이번 업데이트에서는 프로필 활동 요약 기능, 크립토 정보 보강, 빗썸 API 기반 피드 작성 기능이 추가되었습니다.  
+아래 상세 내용을 확인해 주세요.
+
+ 1. 프로필 내 활동 사항 추가
+- 최근 한 달(28일) 기준으로 나의 활동을 요약해서 보여주는 기능이 새롭게 추가되었습니다.
+- 내가 작성한 글, 피드, 댓글 수, 좋아요 받은 횟수, 팔로우한/팔로워 인원 수 등을 한눈에 확인할 수 있습니다.
+
+ 2. 크립토 정보 추가 안내
+- 누락되어 있던 암호화폐 정보가 업데이트되었습니다.
+- 투자 시 유의해야 할 정보 및 안내 사항이 함께 제공되어 더 안전한 투자 환경을 지원합니다.
+
+ 3. 피드 글 작성 빗썸 API 추가
+- 빗썸 API를 통해 제공되는 종목에 대해 피드를 작성할 수 있는 기능이 새롭게 지원됩니다.
+- 다양한 종목 관련 소식을 커뮤니티에서 자유롭게 공유해보세요.
+
+앞으로도 XTrading은 더 나은 사용자 경험과 투자 정보 제공을 위해 지속적으로 발전하겠습니다.  
+업데이트된 기능을 통해 보다 편리하고 안전한 서비스를 이용해 보세요!
+
+---
+
+**Update Notice**
+
+1. Activity Summary in Profile Added
+- A new feature has been added that summarizes your activity over the last 28 days.
+- You can now easily view the number of your posts, feeds, comments, likes received, and followers.
+
+2. Cryptocurrency Information Updated
+- Previously missing cryptocurrency information has been updated.
+- Investment advisory notices have been added to help ensure safer trading.
+
+3. Bithumb API for Feed Posting Added
+- You can now create feeds for trading pairs available through the Bithumb API.
+- Share various market updates and insights with the community more conveniently.
+
+---
+
 # Version 1.1.5
 
 1. 암호화폐 신규 거래소 추가  
