@@ -14,6 +14,138 @@ Hello,
 Thank you for using XTrading.
 Here are the key improvements in the latest version.
 
+# Version 1.1.8
+
+안녕하세요, XTrading 사용자 여러분!
+이번 업데이트에서는 자산 관리와 커뮤니티 기능이 한층 강화되었습니다.
+사용자 경험을 개선하고, 더 풍부한 투자 활동을 할 수 있도록 다양한 기능을 추가했습니다.
+
+## 💰 1. 나의 자산(My Assets) 기능 추가
+
+- 내가 보유한 코인과 투자 내역을 한눈에 관리할 수 있는 '나의 자산' 탭이 새로 추가되었습니다.
+- 매수 수량, 매입가, 평가 금액, 수익률 등 주요 정보를 실시간으로 확인할 수 있습니다.
+- 코인별 상세 화면에서 보유 중인 수량 및 손익률 추이를 직관적으로 볼 수 있습니다.
+- 자산별 총평가금액과 전체 포트폴리오 비중도 함께 제공되어, 내 자산의 현황을 손쉽게 파악할 수 있습니다.
+
+## 🧠 2. 크립토 평가 기능 추가
+
+- 유저들이 각 암호화폐에 대해 '긍정적/부정적' 평가를 남길 수 있는 기능이 추가되었습니다.
+- 평가 결과는 전체 유저의 의견을 종합해 평가 비율 그래프로 표시됩니다.
+- 나의 의견이 시장의 전체 분위기와 어떻게 다른지 직관적으로 비교할 수 있습니다.
+- 평가 이력은 내 히스토리 탭에서 확인 가능합니다.
+
+## 📈 3. 크립토 상승/하락 투표 기능 추가
+
+- 각 코인 상세 화면에서 **"상승할 것 같다 / 하락할 것 같다"**를 선택해 투표할 수 있습니다.
+- 투표 결과는 실시간 집계 그래프로 반영되며, 전체 시장 심리를 한눈에 볼 수 있습니다.
+- 내가 투표한 결과는 히스토리에 기록되어 나중에 언제든 확인할 수 있습니다.
+- 커뮤니티 내 토론에서 의견 교환 시 투표 결과가 자동 반영되어 의견 공유가 더 활발해졌습니다.
+
+## 🏅 4. 유저 등급 시스템 적용
+
+- 활동량에 따라 자동으로 등급이 상승하는 유저 등급 시스템이 도입되었습니다.
+- 글 작성, 댓글 참여, 투표, 평가 등의 행동으로 활동 포인트를 얻을 수 있습니다.
+- 등급이 올라가면 프로필에 등급 뱃지가 표시되며, 향후 추가 혜택이 제공될 예정입니다.
+- 내 프로필 화면에서 현재 등급과 다음 등급까지 필요한 포인트를 확인할 수 있습니다.
+
+## 📜 5. 유저 히스토리 기능 추가
+
+내가 남긴 모든 활동 내역을 한 곳에서 모아볼 수 있습니다.
+
+- 작성한 아이디어
+- 피드(게시글)
+- 크립토 평가
+- 상승/하락 투표 내역
+
+정렬 및 필터 기능을 지원해 내가 어떤 코인에 가장 활발히 참여했는지 쉽게 파악할 수 있습니다.
+
+## 👤 6. 유저 프로필 보기 기능 추가
+
+- 아이디어 및 피드 리스트/상세 화면에서 작성자 프로필을 터치하면, 해당 유저의 프로필 화면으로 이동할 수 있습니다.
+- 프로필 화면에서는 그 유저의 아이디어/피드/투표 히스토리 등을 확인할 수 있습니다.
+- 커뮤니티 내에서 유저 간 신뢰도와 활동 이력을 보다 쉽게 파악할 수 있습니다.
+
+## 🎨 7. UI 개선 사항
+
+- 관심 종목 리스트에 거래소 아이콘이 추가되어, 각 종목이 어떤 거래소의 시세인지 직관적으로 구분할 수 있습니다.
+- 일부 화면의 배치와 색상, 텍스트 정렬이 개선되어 가독성과 일관성이 향상되었습니다.
+
+## ⚙️ 기타 안정화
+
+- 데이터 동기화 속도 개선
+- 프로필 화면 진입 시 로딩 최적화
+- 소규모 버그 수정 및 퍼포먼스 향상
+
+앞으로도 사용자의 피드백을 반영하여 더 완성도 높은 서비스로 발전하겠습니다.
+
+---
+
+**Update Notice**
+
+Hello, XTrading users!
+This update significantly enhances asset management and community features.
+We've added various functions to improve user experience and enable richer investment activities.
+
+## 💰 1. My Assets Feature Added
+
+- A new 'My Assets' tab has been added where you can manage your coin holdings and investment history at a glance.
+- You can check key information such as purchase quantity, purchase price, valuation amount, and rate of return in real-time.
+- In the coin detail screen, you can intuitively view your holdings and profit/loss trends.
+- Total valuation by asset and overall portfolio allocation are also provided, making it easy to understand your asset status.
+
+## 🧠 2. Crypto Rating Feature Added
+
+- Users can now leave 'positive/negative' ratings for each cryptocurrency.
+- Rating results are displayed as a ratio graph that aggregates all users' opinions.
+- You can intuitively compare how your opinion differs from the overall market sentiment.
+- Rating history can be checked in your history tab.
+
+## 📈 3. Crypto Rise/Fall Voting Feature Added
+
+- In each coin detail screen, you can vote for **"Likely to rise / Likely to fall"**.
+- Voting results are reflected in a real-time aggregated graph, allowing you to see the overall market sentiment at a glance.
+- Your voting results are recorded in history and can be checked anytime later.
+- Voting results are automatically reflected in community discussions, making opinion sharing more active.
+
+## 🏅 4. User Level System Implemented
+
+- A user level system has been introduced where your level automatically increases based on activity.
+- You can earn activity points through actions such as writing posts, participating in comments, voting, and rating.
+- When your level increases, a level badge is displayed on your profile, and additional benefits will be provided in the future.
+- You can check your current level and the points needed for the next level on your profile screen.
+
+## 📜 5. User History Feature Added
+
+You can now view all your activity history in one place:
+
+- Ideas written
+- Feeds (posts)
+- Crypto ratings
+- Rise/fall voting history
+
+Sorting and filtering features are supported, making it easy to identify which coins you've been most active with.
+
+## 👤 6. User Profile Viewing Feature Added
+
+- When you touch the author's profile in the idea and feed list/detail screens, you can navigate to that user's profile screen.
+- On the profile screen, you can check that user's ideas/feeds/voting history, etc.
+- It's now easier to understand trust and activity history between users within the community.
+
+## 🎨 7. UI Improvements
+
+- Exchange icons have been added to the watchlist, making it easier to intuitively distinguish which exchange each item's price is from.
+- Layout, colors, and text alignment of some screens have been improved, enhancing readability and consistency.
+
+## ⚙️ Other Stabilization
+
+- Improved data synchronization speed
+- Optimized loading when entering profile screen
+- Minor bug fixes and performance improvements
+
+We will continue to develop a more refined service by reflecting user feedback.
+
+---
+
 # Version 1.1.6
 
 안녕하세요, XTrading 사용자 여러분!  
