@@ -14,6 +14,46 @@ Hello,
 Thank you for using XTrading.
 Here are the key improvements in the latest version.
 
+# Version 1.2.0
+
+안녕하세요, XTrading 사용자 여러분!
+이번 업데이트에서는 앱 안정성 개선을 위한 버그 수정이 이루어졌습니다.
+
+## 🔧 1. 알림함 버그 수정
+
+- 알림함에서 발생하던 오류가 수정되었습니다.
+- 알림 표시 및 읽음 처리가 정상적으로 동작합니다.
+- 알림 수신 시 안정적으로 확인할 수 있도록 개선되었습니다.
+
+## ⚙️ 기타 안정화
+
+- 앱 전반적인 안정성 향상
+- 사용자 경험 개선
+
+앞으로도 사용자의 피드백을 반영하여 더 완성도 높은 서비스로 발전하겠습니다.
+
+---
+
+**Update Notice**
+
+Hello, XTrading users!
+This update includes bug fixes to improve app stability.
+
+## 🔧 1. Notification Center Bug Fixed
+
+- Fixed errors that occurred in the notification center.
+- Notification display and read status now work properly.
+- Improved stability for viewing notifications when received.
+
+## ⚙️ Other Stabilization
+
+- Overall app stability improvements
+- Enhanced user experience
+
+We will continue to develop a more refined service by reflecting user feedback.
+
+---
+
 # Version 1.1.8
 
 안녕하세요, XTrading 사용자 여러분!
