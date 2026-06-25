@@ -18,13 +18,15 @@ tags:
 
 ## 소개
 
-롯데정보통신에서 개발자로 시작하여 현재까지 **7년 10개월**의 경력을 가진 **iOS 개발자**입니다.
+롯데정보통신에서 개발자로 시작하여 현재까지 **약 8년**의 경력을 가진 **iOS 개발자**입니다.
 
 베트남 증권 솔루션 팀에서 모바일 거래 시스템(MTS) 개발과 뱅킹 시스템 개발/운영을 담당하며 성장했습니다. Android, iOS, 플랫폼 스크립트 언어로 NHSV, SSI 증권사 차세대 MTS 개발 프로젝트를 진행하였고, 화면 개발 및 마스터 모듈 개발, 스마트 OTP, 푸시 시스템 등을 개발했습니다.
 
 한국투자증권에서는 iOS 개발자로 기존 Objective-C 앱 운영 개발, Git-Flow 전략 수립 및 배포 자동화(fastlane)를 진행했습니다. 리뉴얼 앱(Swift, MVVM, RxSwift)에서는 메모리 릭 분석 및 수정, 스토리보드 Code 기반 UI 리팩터링을 진행했으며, 카카오 챗봇 프로젝트에서는 Link 기반 화면 이동을 인앱 화면 이동으로 개선하여 사용자 경험을 향상시켰습니다.
 
 현재 한화생명 신사업 부문에서는 SwiftUI + TCA 아키텍처를 적용한 신규 증여앱 **Pi(파이)**를 리드하며, 프로젝트 초기 세팅부터 템플릿 개발, 아키텍처 설계, 앱스토어 오픈까지 완료하였습니다. 새로운 기술에 대한 도전을 즐기며, 사이드 프로젝트(DreamTodo, XTrading, EasyAverage, TodayWod 등)를 통해 지속적으로 성장하고 있습니다.
+
+또한 **AI Prompt Designer(AIPD)** 자격을 취득하고, 생성형 AI를 개발 생산성 향상과 실서비스 운영에 적극 활용하고 있습니다. 직접 기획·개발·운영 중인 글로벌 금융 커뮤니티 플랫폼 **XTrading**(iOS/Android/Web)에서는 **웹 플랫폼을 AI 바이브 코딩(Vibe Coding)으로 직접 구축**하고 **AI 코인 분석 리포트** 등 생성형 AI 기능을 적용하였으며, 금융 도메인 이해를 바탕으로 AI를 실무에 접목하는 iOS 개발자로 성장하고 있습니다.
 
 ---
 
@@ -45,8 +47,9 @@ tags:
 ## 자격사항
 
 - **정보처리기사** (2014.11 취득)
-- **AFPK** (취득 및 만료)
-- **OPIC** (IH 만료)
+- **프롬프트 디자이너(AIPD) 2급** (2026.05 취득) - 한국지식재산서비스협회 / Certified AI Prompt Designer
+- **OPIc** (IM2, 2026.04 응시 / 2028.04 유효)
+- **AFPK** (2017.09 자격시험 합격, 현재 만료)
 
 ## 언어
 
@@ -59,7 +62,7 @@ tags:
 
 ## 경력 사항
 
-### 한화생명보험 (2년 1개월)
+### 한화생명보험 (2년 7개월)
 
 **재직 기간**
 - 2023년 11월 ~ 재직중
@@ -81,7 +84,8 @@ tags:
 [App Store에서 다운로드](https://apps.apple.com/kr/app/%ED%8C%8C%EC%9D%B4/id6755743981)
 
 **프로젝트 개요**
-- 한화생명 신규 증여앱 **Pi(파이)** iOS 앱 개발
+- 한화생명 신규 증여앱 **Pi(파이)** ("생애 필수 증여 플랫폼") iOS 앱 개발
+- 자녀의 미래를 위한 증여·투자를 체계적으로 관리하는 금융 서비스 (증여세 자동 계산, 증여+투자 패키지, 간편 신고 등)
 - SwiftUI + TCA 구성의 신사업 프로젝트
 - 프로젝트 리드 역할 수행
 
@@ -100,7 +104,7 @@ tags:
 
 **성과**
 - QA 과정에서 기획적인 부분과 디자인 이슈 정도만 발생
-- App Store 오픈 완료
+- App Store 오픈 완료, 이후 지속 운영·업데이트 (현재 v1.4.0, 평점 4.8)
 
 **사용 기술**
 - **언어**: Swift
@@ -560,9 +564,10 @@ tags:
    - Swift, MVVM, RxSwift, Code 기반 UI
    - 서버: Node.js
 
-2. **XTrading** (2023) - 금융 커뮤니티 앱
+2. **XTrading** (2023~, 운영 중) - 글로벌 금융 커뮤니티 플랫폼 (iOS/Android/Web)
    - SwiftUI, MVVM, Combine
-   - UPBIT, 한국투자증권 Open API 활용
+   - 실시간 암호화폐 시세, AI 코인 분석 리포트, 부동산 정보, 예측시장, 커뮤니티
+   - Upbit/Bithumb/Binance 시세 연동, 생성형 AI 활용, 앱·웹 멀티플랫폼 운영
 
 3. **EasyAverage** (2024) - 평단가 계산기
    - Swift, TCA, SwiftUI
@@ -612,6 +617,7 @@ tags:
   - Link 기반 화면 이동을 인앱 방식으로 개선하여 UX 향상 (카카오 챗봇 프로젝트)
 - **리팩토링 경험**: Storyboard → Code 기반 UI 전환, 레거시 코드 개선
 - **자동화 도입**: fastlane을 활용한 iOS/Android 배포 자동화
+- **AI 활용 역량**: AI Prompt Designer(AIPD) 자격 취득. 생성형 AI를 개발 생산성 향상에 활용할 뿐 아니라, XTrading의 **웹 플랫폼을 AI 바이브 코딩(Vibe Coding)으로 직접 구축**하고 **AI 코인 분석 리포트** 기능을 구현하는 등 AI를 실서비스에 접목
 
 ### 협업 및 리더십
 - **팀 리드 경험**: 한국투자증권 iOS 팀 리드 (5명)
@@ -660,9 +666,11 @@ tags:
 - 2차 업데이트
   - 목표 공유 게시판 오픈
   - 엑세스 토큰, 리프레쉬 토큰 기반 로그인 처리 방식으로 변경
-  - 최근 업데이트 2023년 07월 30일
   - 비밀번호 재설정 및 회원 가입 업데이트
   - UniversalLink 적용, 비밀번호 재설정 화면, 인증 화면 추가
+- 지속 운영 및 업데이트 (현재 v1.1.8, 2025년 8월 업데이트)
+  - 24시간 스케줄 표 및 주간 완성률 분석 기능 추가
+  - D-Day 설정, 검색, 로컬/서버 백업·복원 기능 제공
 
 #### 사용기술
 
@@ -759,9 +767,9 @@ tags:
 
 ---
 
-### XTrading 앱(프로젝트)
+### XTrading 앱(프로젝트, 출시·운영 중)
 
-[App Store에서 다운로드](https://apps.apple.com/kr/app/xtrading/id6450615991)
+[App Store에서 다운로드](https://apps.apple.com/kr/app/xtrading/id6450615991) | [Google Play에서 다운로드](https://play.google.com/store/apps/details?id=hw.dp.xtrading&hl=ko) | [공식 웹사이트](https://xtrading.kr/)
 
 <div style={{display: 'flex', flexWrap: 'wrap', gap: '10px', marginBottom: '20px'}}>
   <img src="/portfolio/xtrading/xtrading_01.png" width="200" alt="trading1"/>
@@ -774,16 +782,26 @@ tags:
 
 #### 내용
 
-- 코인, 주식, 부동산 등 다양한 자산의 시세를 조회하고 매매할 수 있는 종합 금융 앱
-- 사용자 위주의 컨텐츠 공유 게시판 제공 예정
-- UPBIT, 한국투자증권 Open API 등을 활용할 예정
+- 암호화폐·주식·부동산 등 다양한 자산 정보를 실시간으로 조회하고 공유하는 **글로벌 금융 커뮤니티 플랫폼**
+- **iOS / Android 앱 + 웹(xtrading.kr) 멀티플랫폼**으로 출시 및 **운영 중** (앱 현재 v1.7.2, 2025.05 업데이트)
+- 기획·개발·운영 전 과정을 직접 수행하며, **생성형 AI를 활용한 개발 생산성 향상 및 AI 분석 기능**을 적용
+- 주요 기능
+  - 실시간 암호화폐 시세 및 김치프리미엄 (Upbit, Bithumb, Binance 연동)
+  - **AI 코인 분석 리포트** (생성형 AI 기반 주요 코인 분석 제공)
+  - 부동산 실거래가·건축물대장·청약 정보 조회, 대출/청약 가점 계산기
+  - 예측시장(Polymarket 연동, 랭킹), 투자 아이디어 커뮤니티, 금융 캘린더, 뉴스 피드
+  - 포트폴리오 및 관심그룹(WatchGroup) 관리, 사용자 등급·투표 시스템
+  - iOS 위젯, 인앱 구매(IAP) 지원
+- 동일 서비스를 웹(xtrading.kr)으로도 제공하여 앱·웹 전반의 사용자 경험을 일관되게 운영
 
 #### 사용기술
 
-- **언어**: Swift
-- **라이브러리**: Alamofire, Kingfisher, Combine 등
-- **UI 구성**: SwiftUI
+- **플랫폼**: iOS, Android, Web (xtrading.kr)
+- **iOS 언어/UI**: Swift, SwiftUI
 - **디자인 패턴**: MVVM
+- **라이브러리**: Alamofire, Kingfisher, Combine 등
+- **웹**: 생성형 AI 기반 **바이브 코딩(Vibe Coding)** 으로 웹 플랫폼 직접 개발
+- **기타**: 생성형 AI 연동(AI 분석 리포트), iOS Widget, In-App Purchase
 
 ---
 
